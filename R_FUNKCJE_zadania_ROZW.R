@@ -25,7 +25,7 @@ stworz_wektor(34)
 # 3. Stwórz funkcję o nazwie pole_kola, która oblicza pole powierzchni koła dla danego promienia.
 
 pole_kola = function(r){
-  pole = 3.14 * r^2
+  pole = pi * r^2
   return(pole)
 }
 #Na przykład:
